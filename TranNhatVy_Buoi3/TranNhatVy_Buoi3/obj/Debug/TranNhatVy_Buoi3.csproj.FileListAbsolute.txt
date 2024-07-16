@@ -1,0 +1,14 @@
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\TranNhatVy_Buoi3.exe.config
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.Form1.resources
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.Properties.Resources.resources
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\TranNhatVy_Buoi3.exe
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\TranNhatVy_Buoi3.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.exe
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\UC_DSDN.dll
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\bin\Debug\UC_DSDN.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\TranNhatVy_Buoi3\obj\Debug\TranNhatVy_Buoi3.Form2.resources

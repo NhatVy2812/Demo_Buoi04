@@ -1,0 +1,8 @@
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\bin\Debug\UC_DSDN.dll
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\bin\Debug\UC_DSDN.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\obj\Debug\UC_DSDN.UserControl1.resources
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\obj\Debug\UC_DSDN.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\obj\Debug\UC_DSDN.dll
+E:\LuuDuLieuSV\2001216330_TranNhatVy\TranNhatVy_Buoi3\UC_DSDN\obj\Debug\UC_DSDN.pdb
